@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "f96b619bcb2383b43d898402283924b80e2c4bae",
+          "version": "5.4.3"
+        }
+      },
+      {
+        "package": "OziApiManager",
+        "repositoryURL": "https://github.com/OzmanSolomon/OziApiManager",
+        "state": {
+          "branch": null,
+          "revision": "4fc2b333d48a156b19af8009d939b52396bea6d5",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SwiftTheme",
+        "repositoryURL": "https://github.com/wxxsw/SwiftTheme",
+        "state": {
+          "branch": null,
+          "revision": "8a4a31d1f40e07db38c80b518165df66039f7ae5",
+          "version": "0.6.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

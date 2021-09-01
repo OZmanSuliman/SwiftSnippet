@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftTheme",
+        "repositoryURL": "https://github.com/wxxsw/SwiftTheme",
+        "state": {
+          "branch": null,
+          "revision": "8a4a31d1f40e07db38c80b518165df66039f7ae5",
+          "version": "0.6.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
